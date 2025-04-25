@@ -1,0 +1,15 @@
+---
+name: new ideas
+about: to share and collection new content ideas for Methods Hub
+title: ''
+labels: content idea
+assignees: taimoorkhan-nlp
+
+---
+
+# Title
+
+# Short Description
+
+Content type (Method/Tutorial):
+Programming language (Python, R, ...):
