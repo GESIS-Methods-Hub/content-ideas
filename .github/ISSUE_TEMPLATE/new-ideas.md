@@ -11,14 +11,8 @@ assignees: taimoorkhan-nlp
 # Short Description
 
 
-## Content Type:
-- type: dropdown
-    id: contentType
-    attributes:
-      label: What is the content type?
-      multiple: false
-      options:
-        - method
-        - tutorial
+**Content Type:**
+- [ ] method
+- [ ] tutorial
 
 Programming language (Python, R, ...):
