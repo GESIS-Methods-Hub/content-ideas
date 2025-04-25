@@ -18,13 +18,13 @@ Provide a detailed description of the issue, include any relevant context
 - **Documentation**: This issue pertains to documentation or related materials.
 
 
-## Expected Output:
+# Expected Output:
 Describe what you expected to happen.
 
-## Actual Output:
+# Actual Output:
 Describe what actually happened.
 
-## Priority:
+# Priority:
 - type: dropdown
     id: priority
     attributes:
@@ -35,7 +35,7 @@ Describe what actually happened.
         - medium
         - high
 
-## Content type:
+# Content type:
 - type: dropdown
     id: contentType
     attributes:
