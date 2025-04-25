@@ -12,19 +12,25 @@ assignees: taimoorkhan-nlp
 Provide a detailed description of the issue, include any relevant context
 
 
-# Issue Type:
-- **Conceptual**: This issue involves high-level ideas, decisions, or discussions.
-- **Technical in Code**: This issue relates to changes, bugs, or improvements in the codebase.
-- **Documentation**: This issue pertains to documentation or related materials.
+**Issue Type:**
+- type: dropdown
+    id: issue type
+    attributes:
+      label: What is the type of this issue?
+      multiple: true
+      options:
+        - conceptual: ideas, decisions, or discussions
+        - Technical: relates to issues in bugs in code or decisions
+        - Documentation: pertains to reporting or template
 
 
-# Expected Output:
+**Expected Output:**
 Describe what you expected to happen.
 
-# Actual Output:
+**Actual Output:**
 Describe what actually happened.
 
-# Priority:
+**Priority:**
 - type: dropdown
     id: priority
     attributes:
@@ -35,7 +41,7 @@ Describe what actually happened.
         - medium
         - high
 
-# Content type:
+**Content type:**
 - type: dropdown
     id: contentType
     attributes:
