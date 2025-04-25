@@ -1,7 +1,7 @@
 # content-ideas
 We appreciate that you have come this far to share your content idea.
 
-The purpose of this repository is to collect content ideas for [Methods Hub](methodshub.gesis.org).
+The purpose of this repository is to collect content ideas for [Methods Hub](https://methodshub.gesis.org).
 - Method (for more on writing a method https://github.com/GESIS-Methods-Hub/guidelines-for-methods)
 - Tutorial (for more on writing a tutorial https://github.com/GESIS-Methods-Hub/guidelines-for-tutorials)
 
