@@ -12,16 +12,10 @@ assignees: taimoorkhan-nlp
 Provide a detailed description of the issue. Include any relevant context
 
 **Issue Type:**
-- type: dropdown
-    id: issue type
-    attributes:
-      label: What is the type of this issue?
-      multiple: true
-      options:
-        - compliance with checklist
-        - reusability: to execute or modify
-        - replicability: replicating same output
-        - documentation: method reporting or template
+- [ ] Compliance with checklist
+- [ ] Reusability issue in executing or modifying the code
+- [ ] Replicability in producing the results that does not match with the given output
+- [ ] Documentation: method reporting or template
 
 **Expected Output:**
 Describe what you expected to happen.
@@ -30,22 +24,10 @@ Describe what you expected to happen.
 Describe what actually happened.
 
 **Priority:**
-- type: dropdown
-    id: priority
-    attributes:
-      label: What is the priority of this issue?
-      multiple: false
-      options:
-        - low
-        - medium
-        - high
+- [ ] Low
+- [ ] Medium
+- [ ] High
 
 **Content type:**
-- type: dropdown
-    id: contentType
-    attributes:
-      label: What is the type of content?
-      multiple: false
-      options:
-        - method
-        - tutorial
+- [ ] Method
+- [ ] Tutorial
