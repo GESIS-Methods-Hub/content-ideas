@@ -6,9 +6,17 @@ assignees: taimoorkhan-nlp
 
 ---
 
+the description goes here ...
 
 
 
 
+**Programming language (Python, R, ...): _____________**
 
-Programming language (Python, R, ...):
+**Task:**
+- [ ] Data Collection and Retrieval
+- [ ] Data Preprocessing
+- [ ] Data Mining
+- [ ] Analysis
+- [ ] Data Visualization
+
