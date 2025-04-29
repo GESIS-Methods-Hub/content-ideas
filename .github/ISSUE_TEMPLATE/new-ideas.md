@@ -6,14 +6,14 @@ assignees: taimoorkhan-nlp
 
 ---
 
-the description goes here ...
+**One sentence summary:**
 
 
 
 
-**Programming language (Python, R, ...): _____________**
+**Programming language (Python, R, ...):**
 
-**Task:**
+**Task Type:**
 - [ ] Data Collection and Retrieval
 - [ ] Data Preprocessing
 - [ ] Data Mining
